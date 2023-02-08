@@ -4,7 +4,7 @@ from aiogram.types import Message
 
 # Вместо BOT TOKEN HERE нужно вставить токен вашего бота,
 # полученный у @BotFather
-API_TOKEN: str = '6070886348:AAHqzzst-_ccft-h_Up9K3CjufRbm-7V1Mk'
+API_TOKEN: str = 'TOKEN'
 
 # Создаем объекты бота и диспетчера
 bot: Bot = Bot(token=API_TOKEN)
